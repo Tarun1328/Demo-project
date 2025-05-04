@@ -1,3 +1,5 @@
+package main_method;
+
 public class Demo6 {
 
     public static void main(String[] arg) {

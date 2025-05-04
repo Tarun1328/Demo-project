@@ -1,3 +1,5 @@
+package demo;
+
 public class Demo8 {
 
     public static void main(String[] arg) {
