@@ -1,5 +1,5 @@
 package test;
-// question number 01
+
 public class code_of_increment {
 
     public static void main(String[] args) {
