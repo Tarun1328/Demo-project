@@ -1,4 +1,4 @@
-package main_method;
+package demo;
 
 public class Demo6 {
 
